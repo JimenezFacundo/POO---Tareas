@@ -63,3 +63,17 @@ Implementación de un juego inspirado en el clásico T-Rex Runner de Google Chro
 
 ```cpp
 connect(timer, SIGNAL(timeout()), this, SLOT(moverObjeto()));
+
+─────────────────────────────
+|         🦖 TREX          |
+| ░░░░░░░░░░░░░░░░░░░░░░░░ |
+|       🌵      🐦          |
+|   Obstáculos que avanzan  |
+|                           |
+| → Controles:              |
+|   Espacio = Salto         |
+|   Flecha ↓ = Agacharse    |
+|   Flecha → = Acelerar     |
+|   Flecha ← = Frenar       |
+─────────────────────────────
+
