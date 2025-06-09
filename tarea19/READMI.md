@@ -41,3 +41,35 @@ CREATE TABLE cajas_medicamentos (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   dosis_totales REAL NOT NULL
 );
+
+## Interfaz gráfica
+
+- Ingreso de cantidad de dosis por caja (QDoubleSpinBox)
+
+- Botón **Agregar**:
+  - Verifica que la dosis ingresada no exceda el total permitido (1000)
+  - Si se excede, muestra advertencia con `QMessageBox`
+
+- Lista de cajas cargadas (QListWidget)
+
+- Botón **Sumar**:
+  - Combina dos cajas seleccionadas (usando `operator+`)
+  - Solo permite agregar si la suma no excede 1000
+
+- Botón **Comparar**:
+  - Compara si dos cajas seleccionadas tienen la misma cantidad (usa `operator==`)
+  - Muestra resultado por consola con `qDebug()`
+
+---
+
+## Restricciones
+
+❌ No usar **QMainWindow**  
+❌ No usar **QPixmap**  
+❌ No usar lambdas ni punteros a funciones para `connect()`
+
+✅ Usar `SIGNAL()` y `SLOT()` para señales y slots  
+✅ Usar **QWidget** como contenedor principal  
+✅ Usar **AdminDB** como singleton  
+✅ Usar **SQLite** con `QSqlDatabase`  
+
