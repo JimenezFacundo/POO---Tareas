@@ -28,6 +28,8 @@ Cada carpeta corresponde a una **tarea individual**:
 
 
 > 🔁 Los subdirectorios de compilación (`build/`) han sido eliminados para mantener el repositorio limpio y portable.
+> 🔁 Cada ejercicio tiene su readmi con su actividad correspondiente y comentarios de ser necesario.
+
 
 ---
 
