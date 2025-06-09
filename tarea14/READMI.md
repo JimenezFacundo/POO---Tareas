@@ -11,6 +11,9 @@ El usuario puede:
 - Cambiar el **tamaño del trazo** con el scroll del mouse.
 - **Borrar todo** lo dibujado presionando `Escape`.
 
+> ⚠️ **Nota importante**:  
+> Está **prohibido usar `QPixmap`** para guardar lo dibujado.  
+> Todo debe renderizarse en tiempo real sobre el widget, respetando los contenidos ya dibujados.
 
 ---
 
