@@ -41,6 +41,9 @@ CREATE TABLE cajas_medicamentos (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   dosis_totales REAL NOT NULL
 );
+```
+
+---
 
 ## Interfaz gráfica
 
