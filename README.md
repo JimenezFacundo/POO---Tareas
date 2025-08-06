@@ -43,7 +43,7 @@ Cada carpeta corresponde a una **tarea individual**:
 - **Sobrecarga de operadores**
 - Manejo de **punteros a objetos**
 - **Modularización** con archivos `.h` y `.cpp`
-- Proyecto final integrador (si aplica)
+- Proyecto final integrador 
 
 ---
 
