@@ -61,7 +61,7 @@ Cada carpeta corresponde a una **tarea individual**:
 - **Nombre:** Jimenez Facundo  
 - **Carrera:** Ingeniería Informática  
 - **Universidad:** Universidad Blas Pascal  
-- **Año:** Segundo  
+- **Año:** Tercero 
 - **Año cursado:** 2025
 
 ---
