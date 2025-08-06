@@ -1,5 +1,5 @@
 # 🧾 Ejercicios de Programación Orientada a Objetos (C++)  
-**Universidad Blas Pascal – Ing. Informática – 2º Año**  
+**Universidad Blas Pascal – Ing. Informática – 3º Año**  
 **Docente:** Ing. Cesar Osimani  
 **Autor:** Jimenez Facundo Luis
 
