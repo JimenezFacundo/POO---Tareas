@@ -4,7 +4,7 @@ Este repositorio contiene ejercicios prácticos desarrollados en **Qt Widget App
 
 ---
 
-# Ejercicio 7
+# Ejercicio 17
 
 ## Descripción
 
